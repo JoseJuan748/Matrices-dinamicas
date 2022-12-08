@@ -1,0 +1,3 @@
+﻿  22_11_02_007_Matrices.cpp
+C:\Users\pepe.DESKTOP-3HNBL5U\Desktop\Visual studio\22_11_02_007_Matrices\22_11_02_007_Matrices\22_11_02_007_Matrices.cpp(38,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  22_11_02_007_Matrices.vcxproj -> C:\Users\pepe.DESKTOP-3HNBL5U\Desktop\Visual studio\22_11_02_007_Matrices\x64\Debug\22_11_02_007_Matrices.exe
